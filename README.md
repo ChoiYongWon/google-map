@@ -1,1 +1,1 @@
-## Google maps api 연습 공간
+## 지도 관련 api 연습 공간
